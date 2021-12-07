@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <title>Designing</title>
 <meta charset="UTF-8">
